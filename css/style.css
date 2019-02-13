@@ -57,7 +57,7 @@ table {
   .header-navbar .container .navbar .logo-text {
     display: inline-block; }
   .header-navbar .container .navbar li {
-    font-family: 'BPG Nino Mtavruli';
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     list-style-type: none;
     border-bottom: 2px solid #050e7f;
     padding-left: 40px; }
@@ -80,7 +80,7 @@ table {
 .banner-gif {
   position: relative; }
   .banner-gif h2 {
-    font-family: 'BPG Nino Mtavruli';
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     display: inline-block;
     font-size: 32px;
     position: absolute;
@@ -99,7 +99,7 @@ table {
     position: absolute;
     top: 40%;
     left: 24%;
-    font-family: 'BPG Nino Mtavruli';
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     display: inline-block;
     font-size: 32px;
     color: yellow;
@@ -117,7 +117,7 @@ table {
   padding-bottom: 50px; }
   .about-us .container .about-us-heading .about-us-header {
     color: #292F36;
-    font-family: 'BPG Nino Mtavruli';
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     font-size: 32px;
     margin: 80px 0px 40px 0px;
     border-left: 15px solid #292F36; }
@@ -125,7 +125,7 @@ table {
     float: right;
     padding-top: 50px; }
   .about-us .container .about-us-heading .article-container .article-text {
-    font-family: 'BPG Glaho';
+    font-family: 'BPG Glaho' , sans-serif;
     color: #8D8F92;
     font-size: 16px;
     list-style-type: decimal; }
@@ -143,7 +143,7 @@ table {
     /** Contact Links **/ }
     .our-team .container .our-team-container .our-team-header {
       color: #ffffff;
-      font-family: 'BPG Nino Mtavruli';
+      font-family: 'BPG Nino Mtavruli', sans-serif;
       font-size: 32px;
       padding: 50px 0px; }
     .our-team .container .our-team-container figure {
@@ -166,7 +166,7 @@ table {
         .our-team .container .our-team-container figure .member-info1 h4 {
           font-size: 24px;
           padding-top: 10px;
-          font-family: 'BPG Nino Mtavruli';
+          font-family: 'BPG Nino Mtavruli', sans-serif;
           color: #fff; }
       .our-team .container .our-team-container figure .member-info2 {
         background-color: #f7814d;
@@ -180,7 +180,7 @@ table {
         .our-team .container .our-team-container figure .member-info2 h4 {
           font-size: 24px;
           padding-top: 10px;
-          font-family: 'BPG Nino Mtavruli';
+          font-family: 'BPG Nino Mtavruli', sans-serif;
           color: #fff; }
       .our-team .container .our-team-container figure .member-info3 {
         background-color: #f7814d;
@@ -194,7 +194,7 @@ table {
         .our-team .container .our-team-container figure .member-info3 h4 {
           font-size: 24px;
           padding-top: 10px;
-          font-family: 'BPG Nino Mtavruli';
+          font-family: 'BPG Nino Mtavruli', sans-serif;
           color: #fff; }
     .our-team .container .our-team-container figure .contact {
       z-index: 2;
@@ -260,16 +260,15 @@ table {
   .news-container .news-header h2 {
     color: #292F36;
     font-size: 32px;
-    padding-bottom: 50px;
-    padding-top: 50px;
-    font-family: 'BPG Nino Mtavruli';
+    margin: 50px 0px;
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     text-align: center; }
   .news-container .article-container .article-item {
     padding-bottom: 50px; }
     .news-container .article-container .article-item img {
       align-self: center; }
   .news-container .article-container .article-item .article-text1 {
-    font-family: 'BPG Nino Mtavruli';
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     width: 100%;
     font-size: 24px;
     box-sizing: border-box;
@@ -281,7 +280,7 @@ table {
   .news-container .article-container a {
     text-decoration: none; }
   .news-container .article-container .article-item .article-text2 {
-    font-family: 'BPG Glaho';
+    font-family: 'BPG Glaho' , sans-serif;
     width: 100%;
     font-size: 14px;
     box-sizing: border-box;
@@ -297,7 +296,7 @@ table {
     padding-bottom: 30px;
     color: #FFFFFF;
     font-size: 32px;
-    font-family: 'BPG Nino Mtavruli'; }
+    font-family: 'BPG Nino Mtavruli', sans-serif; }
   .our-customers .container .numbers-container .numbers .circle {
     border: 5px solid;
     width: 175px;
@@ -315,7 +314,7 @@ table {
   .our-customers .container .numbers-container .numbers .cicle-text h5 {
     padding-top: 10px;
     color: white;
-    font-family: 'BPG Glaho';
+    font-family: 'BPG Glaho' , sans-serif;
     font-size: 24px; }
 
 /* END OF OUR CUSTOMERS SERCTION */
@@ -327,7 +326,7 @@ table {
     #top-servers .container .our-servers .our-servers-header h2 {
       color: #1C2530;
       font-size: 32px;
-      font-family: 'BPG Nino Mtavruli'; }
+      font-family: 'BPG Nino Mtavruli', sans-serif; }
     #top-servers .container .our-servers .our-servers-header a {
       text-decoration: none; }
   #top-servers .container .our-servers .view-more-button {
@@ -335,7 +334,7 @@ table {
     #top-servers .container .our-servers .view-more-button h2 {
       border: 2px solid #f7814d;
       display: inline-block;
-      font-family: 'BPG Nino Mtavruli';
+      font-family: 'BPG Nino Mtavruli', sans-serif;
       font-size: 15px;
       padding: 12px 10px 10px 10px;
       border-radius: 10px;
@@ -385,8 +384,8 @@ hr {
 
 #pricePlans .container .text-container .price-plans-header h2 {
   font-size: 32px;
-  padding: 50px 0px;
-  font-family: 'BPG Nino Mtavruli';
+  margin: 50px 0px;
+  font-family: 'BPG Nino Mtavruli', sans-serif;
   color: #FFFFFF; }
 
 .planContainer .title h2 {
@@ -395,7 +394,7 @@ hr {
   color: #3e4f6a;
   margin: 0;
   padding: .6em 0;
-  font-family: 'BPG Nino Mtavruli'; }
+  font-family: 'BPG Nino Mtavruli', sans-serif; }
 
 .planContainer .title .bestPlanTitle {
   background: #3e4f6a;
@@ -433,7 +432,7 @@ hr {
   margin-top: 10em; }
   .planContainer .options li {
     font-weight: 700;
-    font-family: 'BPG Glaho';
+    font-family: 'BPG Glaho' , sans-serif;
     color: #364762;
     line-height: 2.5; }
     .planContainer .options li span {
@@ -463,15 +462,15 @@ hr {
 .port-checker .container h2 {
   background-color: #FFFFFF;
   font-size: 32px;
-  font-family: 'BPG Nino Mtavruli';
-  padding: 30px 0px; }
+  font-family: 'BPG Nino Mtavruli', sans-serif;
+  margin: 50px 0px; }
 
 .port-checker .container .check-port {
   padding-bottom: 50px; }
   .port-checker .container .check-port input {
     line-height: 50px;
     font-size: 16px;
-    font-family: 'BPG Glaho';
+    font-family: 'BPG Glaho' , sans-serif;
     border-radius: 5px; }
   .port-checker .container .check-port a {
     padding: 19px;
@@ -481,7 +480,7 @@ hr {
     border: 1px solid #f7814d;
     border-radius: 10px; }
     .port-checker .container .check-port a span {
-      font-family: 'BPG Nino Mtavruli'; }
+      font-family: 'BPG Nino Mtavruli', sans-serif; }
     .port-checker .container .check-port a:hover {
       background-color: #ff9c70;
       transition: 0.2s; }
@@ -517,7 +516,7 @@ hr {
       color: #FFFFFF; }
     .web-footer .container .top-footer .footer-widget p {
       color: #9aa4c6;
-      font-family: 'BPG Glaho';
+      font-family: 'BPG Glaho' , sans-serif;
       font-size: 16px;
       line-height: 20px;
       text-align: justify; }
@@ -530,18 +529,18 @@ hr {
         .web-footer .container .top-footer .footer-widget .social-links ul li a {
           color: #FFFFFF; }
     .web-footer .container .top-footer .footer-widget .recent-news .recent-news-header h2 {
-      font-family: 'BPG Nino Mtavruli';
+      font-family: 'BPG Nino Mtavruli', sans-serif;
       font-size: 24px;
       padding-bottom: 30px; }
     .web-footer .container .top-footer .footer-widget .recent-news p {
       color: #ffffff;
       font-size: 12px; }
     .web-footer .container .top-footer .footer-widget .recent-news h4 {
-      font-family: 'BPG Glaho';
+      font-family: 'BPG Glaho' , sans-serif;
       color: #ffffff;
       padding: 10px 0px; }
     .web-footer .container .top-footer .footer-widget .subscribe h2 {
-      font-family: 'BPG Nino Mtavruli';
+      font-family: 'BPG Nino Mtavruli', sans-serif;
       font-size: 24px; }
     .web-footer .container .top-footer .footer-widget .subscribe input {
       width: 80%;
@@ -565,10 +564,10 @@ hr {
   .web-footer .bottom-footer {
     border-top: 1px solid rgba(255, 255, 255, 0.15); }
     .web-footer .bottom-footer .container .rights h2 {
-      font-family: 'BPG Glaho';
+      font-family: 'BPG Glaho' , sans-serif;
       padding: 30px 0px;
       color: #FFFFFF;
-      font-family: 'BPG Glaho';
+      font-family: 'BPG Glaho' , sans-serif;
       font-size: 14px; }
     .web-footer .bottom-footer .container .footer-navbar ul {
       text-align: right; }
@@ -582,7 +581,7 @@ hr {
         .web-footer .bottom-footer .container .footer-navbar ul li a {
           color: #9aa4c6;
           text-decoration: none;
-          font-family: 'BPG Glaho';
+          font-family: 'BPG Glaho' , sans-serif;
           font-size: 14px; }
           .web-footer .bottom-footer .container .footer-navbar ul li a:hover {
             color: #FFFFFF; }
@@ -592,7 +591,7 @@ hr {
   padding-bottom: 50px; }
   .rules .container .rules-heading .rules-header {
     color: #292F36;
-    font-family: 'BPG Nino Mtavruli';
+    font-family: 'BPG Nino Mtavruli', sans-serif;
     font-size: 32px;
     margin: 80px 0px 40px 0px;
     border-left: 15px solid #292F36; }
@@ -600,7 +599,7 @@ hr {
     float: right;
     padding-top: 50px; }
   .rules .container .rules-heading .article-container .article-text {
-    font-family: 'BPG Glaho';
+    font-family: 'BPG Glaho' , sans-serif;
     color: #8D8F92;
     font-size: 16px;
     list-style-type: decimal; }
@@ -774,8 +773,6 @@ hr {
       padding-bottom: 65px; } }
 
 @media screen and (min-width: 1025px) {
-  #pricePlans {
-    margin: 2em auto; }
   #pricePlans #plans .plan {
     width: 24%;
     margin: 0 1.33% 20px 0;
@@ -814,7 +811,9 @@ hr {
   .our-customers .container .numbers-container .numbers .circle {
     margin: 5% 30%; }
   .port-checker .container .check-port input {
-    margin-bottom: 30px; } }
+    margin-bottom: 30px; }
+  .rules .rules-heading .article-container ol {
+    padding: 0% 10%; } }
 
 @media screen and (max-width: 481px) {
   .header-navbar .burger button {
@@ -864,7 +863,7 @@ hr {
   -o-animation-play-state: running;
   animation-play-state: running; }
 
-/* CSS Animations (extracted from http://glifo.uiparade.com/) */
+/* CSS Animations */
 @-webkit-keyframes fadeInDown {
   0% {
     opacity: 0;
